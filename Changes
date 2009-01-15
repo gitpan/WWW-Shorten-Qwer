@@ -1,0 +1,43 @@
+2009-01-15  Dave Cross  <dave@dave.org.uk>
+
+	* INSTALL: Changed INSTALL to make sense.
+
+	* commit 91e8578d191f95c9ab9abe5860c7ab9720bf6eeb
+
+2009-01-15  Dave Cross  <dave@dave.org.uk>
+
+	* lib/WWW/Shorten/Qwer.pm: Corrected author details
+
+	* commit b4ba992afe76bd3c32f7156b963740ceb619d875
+
+2009-01-15  Dave Cross  <dave@dave.org.uk>
+
+	* MANIFEST: Removed AUTHORS from MANIFEST
+
+	* commit 2852f7ac1538088b9286a3818ba810ea38064366
+
+2009-01-15  Dave Cross  <dave@dave.org.uk>
+
+	* AUTHORS, Build, _build/auto_features, _build/build_params,
+	_build/cleanup, _build/config_data, _build/features,
+	_build/magicnum, _build/notes, _build/prereqs,
+	_build/runtime_params, blib/bindoc/shorten.1,
+	blib/lib/WWW/Shorten/Qwer.pm, blib/libdoc/WWW::Shorten::Qwer.3pm,
+	blib/script/shorten: Deleted some unnecessary files
+
+	* commit 323ec101474b322f4826182a58252b46e1fbc6aa
+
+2009-01-15  Dave Cross  <dave@dave.org.uk>
+
+	* AUTHORS, Artistic, Build, Build.PL, COPYING, INSTALL,
+	LICENCE, MANIFEST, MANIFEST.SKIP, README, _build/auto_features,
+	_build/build_params, _build/cleanup, _build/config_data,
+	_build/features, _build/magicnum, _build/notes,
+	_build/prereqs, _build/runtime_params, blib/bindoc/shorten.1,
+	blib/lib/WWW/Shorten/Qwer.pm, blib/libdoc/WWW::Shorten::Qwer.3pm,
+	blib/script/shorten, lib/WWW/Shorten/Qwer.pm, t/00load.t,
+	t/00load_a.t, t/00load_b.t, t/00noexp.t, t/00sig.t, t/01version.t,
+	t/98pod-coverage.t, t/99pod.t, t/qwer.t: Initial revision
+
+	* commit ea2288a84eb0828f22770e9a0ff891dcd0214bcd
+
